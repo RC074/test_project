@@ -1,0 +1,2 @@
+django-oscar[sorl-thumbnail]
+stripe==6.1.0
